@@ -1,16 +1,21 @@
-## Hi there 👋
+# Agnelo Abel
 
-<!--
-**AgneloAbel/AgneloAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer focused on AWS, ECS, Security, Linux and Observability.
 
-Here are some ideas to get you started:
+## Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- ECS/Fargate
+- Terraform
+- Linux
+- Docker
+- CI/CD
+- Cloud Security
+- Monitoring
+- Networking
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect – Professional
